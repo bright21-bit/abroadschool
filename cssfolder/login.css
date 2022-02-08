@@ -40,12 +40,15 @@ button:hover {
   padding: 10px 18px;
   background-color: #ff751a;
   border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .imgcontainer { 
   width: 100px;
   height: 100px;
-  margin: 0 auto;
+  margin: 10px auto;
   border-radius: 50%;
 }
 
